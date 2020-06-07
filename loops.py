@@ -11,3 +11,9 @@ except expression as identifier:
     pass
 else:
     pass
+
+import netmiko
+    async for target in iter:
+        block
+    else:
+        block
