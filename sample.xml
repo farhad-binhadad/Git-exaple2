@@ -1,2 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<people>
+<device>
+    <Hostname>R1</Hostname>
+    <IPv4>10.10.10.1</IPv4>
+    <IPv6></IPv6>
+</device> 
+
+
+<?xml version ="1.0" encoding="UTF-8"?>
+  <bookstore>
+    <book isbn="0123456001">
+      <title>Confessions Of A Data Center Visionary</title>
+      <author>Captain Cloud</author>
+      <category></category>
+      <year>2009</year>      
+      <edition>7</edition>
+      <price>19.99</price>      
+    </book>
+  </bookstore>
