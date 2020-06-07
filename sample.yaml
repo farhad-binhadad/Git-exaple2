@@ -23,6 +23,6 @@
 --- #This is the start of a new document in YAML
 
 ANumber: 145
-AFlot: 19.8075
+AFloat: 19.8075
 AString: Hello Theodore!
 AQuotedString: "Quotes are prefectly acceptable"
