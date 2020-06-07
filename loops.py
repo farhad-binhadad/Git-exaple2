@@ -5,6 +5,7 @@ print ("My name is Chukwudi Theodore Onije")
 line for new branch_new
 
 
+<<<<<<< HEAD
 added branch new2 for try:
     pass
 except expression as identifier:
@@ -17,3 +18,6 @@ import netmiko
         block
     else:
         block
+=======
+another one 
+>>>>>>> new
