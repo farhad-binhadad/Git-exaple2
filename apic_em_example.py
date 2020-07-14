@@ -54,3 +54,5 @@ def getNetworkDevices(ticket):
 theTicket=getTicket()
 getNetworkDevices(theTicket)
 
+
+
